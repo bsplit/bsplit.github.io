@@ -1,0 +1,7 @@
+# robots.txt
+User-agent: *
+Disallow: /
+
+
+User-agent: searchpreview
+Disallow: /
