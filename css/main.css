@@ -2,8 +2,10 @@
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––– */
-html,body {font-family: 'PT Serif', serif; text-rendering:optimizeLegibility;}
-/*html,body {font-family: 'Merriweather', serif; text-rendering:optimizeLegibility;}*/
+/*html,body {font-family: 'PT Serif', serif; text-rendering:optimizeLegibility;}*/
+/*html,body {font-family: 'Montserrat', serif; text-rendering:optimizeLegibility;}*/
+html,body {font-family: 'Merriweather', serif; text-rendering:optimizeLegibility;}
+
 h1, h2, h3, h4, h5, h6 {margin-top:2rem;margin-bottom:2rem;font-weight:200;}
 
 /* Header
@@ -11,13 +13,13 @@ h1, h2, h3, h4, h5, h6 {margin-top:2rem;margin-bottom:2rem;font-weight:200;}
 header{position:fixed;top:0;left:0;width:100%;z-index:50;}
 header h1{margin:0;}
 header a {color:#666666;text-decoration:none;}
-header a:visited{color:#666666;} header a:hover{color:black;}
 header ul{float:right;}
 header li{display:inline;width:100px;float:left;}
 header li a{display:block;padding:8px;width:100%;zoom:1;text-align:center;}
 .header{background-color:white;height:75px;box-shadow:1px 0 3px #82827f;padding:2rem 0 1rem 0;}
-.banner a:visited{color:black;}
+.banner a, .banner a:visited {color:black;}
 .nav {font-size:1.5rem;text-transform:none;text-rendering:uppercase;}
+.nav  a:visited{color:#666666;} .nav a:hover{color:black;}
 .top  {margin-top:5rem;}
 
 /* Formatting
@@ -34,7 +36,7 @@ abbr{font-weight:bold;text-decoration:none;}
 
 /* Links
 –––––––––––––––––––––––––––––––––––––– */
-a {text-decoration:underline;}
+a {color: gray; text-decoration:underline;}
 a:hover {color:black;transition:1s;text-decoration:none;}
 a:hover, a:visited, a:link, a:active {text-decoration: none;}
 /*a {color:#666666;text-decoration:none;}*/
