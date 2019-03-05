@@ -19,7 +19,7 @@ header li a{display:block;padding:8px;width:100%;zoom:1;text-align:center;}
 .banner a, .banner a:visited {color:black;}
 .nav {font-size:1.5rem;text-transform:none;text-rendering:uppercase;}
 .nav a:visited{color:#444444;} .nav a:hover{color:black;}
-.top  {margin-top:5rem;} .top h3 {margin-top:3rem; margin-bottom: 5px;}
+.top  {margin-top:5rem;} .main.top h3 {margin-top:3rem; margin-bottom: 5px;}
 
 /* Formatting
 ----------------------------------- */
