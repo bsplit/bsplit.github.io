@@ -28,7 +28,7 @@ abbr{font-weight:bold;text-decoration:none;}
 .main{background:#03396c;color:white;margin-top:0rem;}
 .main h3{margin-top:1.25rem;margin-bottom:.75rem;}
 .footer{padding-bottom:5px;margin-top:2rem; width:100%;}
-.section {padding-top:1rem;}
+.section {padding-top:0rem;}
 .section h2{box-shadow:0px 1px 0px #82827f;	margin-bottom:0;}
 .pright{padding-right:5rem;} .pleft{padding-left:5rem;}
 .linkedin{background:url(/images/linkedin.png) no-repeat left; padding-left:3rem;}
