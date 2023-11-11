@@ -15,4 +15,7 @@ User-agent: Google-Read-Aloud
 User-agent: Google-Site-Verification
 User-agent: Twitterbot
 User-agent: facebookexternalhit
+User-agent: GPTBot
+User-agent: Bingbot
+User-agent: CCBot
 Disallow: /
