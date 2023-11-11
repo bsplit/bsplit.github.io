@@ -4,4 +4,15 @@ Disallow: /
 
 
 User-agent: searchpreview
+User-agent: AdsBot-Google
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google-Mobile-Apps
+User-agent: FeedFetcher-Google
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Google++++++++++++++++++++++++++++++++++++++++
+User-agent: Google-Read-Aloud
+User-agent: Google-Site-Verification
+User-agent: Twitterbot
+User-agent: facebookexternalhit
 Disallow: /
